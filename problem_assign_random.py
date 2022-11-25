@@ -10,3 +10,5 @@ for i in p:
         aux = randint(1, 6)
     problem_check_list[aux] = 1
     print(i, aux+1)
+
+
